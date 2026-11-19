@@ -1,0 +1,3 @@
+# Draft site — switch to "Allow: /" and remove noindex meta tag before production launch
+User-agent: *
+Disallow: /
